@@ -1,4 +1,4 @@
-// Program to print pixel using put pixel command
+// Program to print pixel using putpixel() command
 #include <graphics.h>
 int main()
 {
