@@ -1,4 +1,4 @@
-// Program to draw a line putpixel() command
+// Program to draw a line using putpixel() command
 #include <graphics.h>
 int main()
 {
